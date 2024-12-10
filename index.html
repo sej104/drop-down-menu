@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dynamic UI Interactions</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="./script.js" type="module"></script>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul class="menu-items">
+          <li><button type="button">Menu 1</button></li>
+          <li>
+            <button type="button" class="drop-down-menu">
+              Menu 2 <img src="./images/chevron.svg" alt="chevron icon" />
+            </button>
+            <ul class="drop-down-content hidden">
+              <li><button type="button">Link 1</button></li>
+              <li><button type="button">Link 2</button></li>
+              <li><button type="button">Link 3</button></li>
+            </ul>
+          </li>
+          <li>
+            <button type="button" class="drop-down-menu">
+              Menu 3 <img src="./images/chevron.svg" alt="chevron icon" />
+            </button>
+            <ul class="drop-down-content hidden">
+              <li><button type="button">Link 1</button></li>
+              <li><button type="button">Link 2</button></li>
+              <li><button type="button">Link 3</button></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+    </header>
+  </body>
+</html>
