@@ -1,3 +1,3 @@
 # drop-down-menu
 
-Simple drop down menu template created using HTML, CSS and Javascript
+[Live Preview](https://sej104.github.io/drop-down-menu/)
