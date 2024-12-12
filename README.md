@@ -1,3 +1,3 @@
 # drop-down-menu
 
-Basic drop-down menu using HTML, CSS and Javascript
+Simple drop down menu template created using HTML, CSS and Javascript
